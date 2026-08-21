@@ -422,13 +422,25 @@ const produtosRacoes = [
       "https://a-static.mlcdn.com.br/800x600/semente-13-e-5-kg-girassol-pequeno-para-passaros-papagaio-limpo-miudo-prime/magaprimer/9fbf6396247f11ed901f4201ac185019/3eb3e974bf2d8eef8631dcf72c8ffaaa.jpeg",
   },
   {
-    nome: "Ração Fluffy Roe",
+    nome: "Ovo de Páscoa Doogs Sabor Carne 200g",
+    preco: "R$20,00",
+    imagem:
+      "https://doogspet.com/wp-content/uploads/303125-Doogs-Ovo-De-Pascoa-Cao-Carne-12x200grs.png",
+  },
+  {
+    nome: "Ovo de Páscoa Doogs Filhotes Sabor Carne e Leite 200g",
+    preco: "R$20,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_945535-MLA82432018939_022025-F.webp",
+  },
+  {
+    nome: "Ração Fluffy Roe (Coelho e Hamster)",
     preco: "R$20,00",
     imagem:
       "https://dcdn-us.mitiendanube.com/stores/006/687/615/products/a3c127821a3f95691a7a04b96014fa44-35c40f87e4b570fcb517620151722048-480-0.webp",
   },
   {
-    nome: "Ração FunnyBunny 500g",
+    nome: "Ração FunnyBunny 500g (Coelho e Hamster)",
     preco: "R$20,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_672489-MLB76634451669_052024-F-racao-coelho-e-roedores-funny-bunny-delicias-da-horta-18kg.webp",
@@ -1463,6 +1475,18 @@ const produtosAcessorios = [
     preco: "R$25,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_745689-MLB111358114450_052026-F-pet-clean-kit-adestrador-pipi-certo--xixi-nao-caes-e-gatos.webp",
+  },
+  {
+    nome: "Pet Clean Spray Bucal Menta 120mL",
+    preco: "R$20,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_753343-MLA99357431484_112025-F.webp",
+  },
+  {
+    nome: "Pet Clean Spray Bucal Morango 120mL",
+    preco: "R$20,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_927296-MLA96507998977_102025-F.webp",
   },
   {
     nome: "Peitoral para Cães",
@@ -2684,7 +2708,7 @@ const headerPadrao = {
 };
 
 const headerVet = {
-  tagline: "Agende sua consulta com o Dr. Vet. Adriano!",
+  tagline: "Agende sua consulta com o Dr. Vet. Adriano!\nAtendimento Domiciliar | Vacinas | Exames | Internação | Cirurgia",
   whatsappText: "Marcar consulta",
   whatsappHref: `https://wa.me/${whatsappNumero}?text=${encodeURIComponent("Olá! Gostaria de agendar uma consulta com o Dr. Vet. Adriano.")}`,
 };
