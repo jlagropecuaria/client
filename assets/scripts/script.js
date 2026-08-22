@@ -2463,6 +2463,18 @@ const produtosAcessorios = [
       "https://images.tcdn.com.br/img/img_prod/496227/kit_5_iscas_artificiais_cmik_soft_10cm_6gr_11114447_1_111e1dd1908dc89b496d626a8ae4b76b.jpg",
   },
   {
+    nome: "Kit Pescaria Completo Tecfish Vara Molinete 1,65m Anzol Chumbada",
+    preco: "R$199,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_883737-MLB91269042368_092025-F-kit-pescaria-completo-tecfish-vara-molinete-anzol-chumbada.webp",
+  },
+  {
+    nome: "Kit Pescaria Completo Tecfish Vara Telescópica 1,65m",
+    preco: "R$149,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_883737-MLB91269042368_092025-F-kit-pescaria-completo-tecfish-vara-molinete-anzol-chumbada.webp",
+  },
+  {
     nome: "Vara de Pesca em Bambu",
     preco: "R$15,00",
     imagem:
