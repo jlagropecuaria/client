@@ -1780,21 +1780,21 @@ const produtosAcessorios = [
     preco: "R$1,00",
     imagem: "assets/img/Ossinhos.PNG",
   },
-  { nome: "Osso para Cães", preco: "R$5,00", imagem: "assets/img/osso.PNG" },
+  { nome: "Osso nó 1/2", preco: "R$5,00", imagem: "assets/img/osso.PNG" },
   {
-    nome: "Osso Couro Bovino Pequeno Porte",
-    preco: "R$13,00",
+    nome: "Osso nó 3/4",
+    preco: "R$10,00",
     imagem:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvXZv_UA5pwjCwa3FPx48_KXTnyPf2R8VnGULgJ0rxg&s=10",
   },
   {
-    nome: "Osso Couro Bovino Médio Porte",
-    preco: "R$17,00",
+    nome: "Osso nó 5/6",
+    preco: "R$12,00",
     imagem:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvXZv_UA5pwjCwa3FPx48_KXTnyPf2R8VnGULgJ0rxg&s=10",
   },
   {
-    nome: "Osso Couro Bovino Grande Porte",
+    nome: "Osso nó 8/9",
     preco: "R$20,00",
     imagem:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvXZv_UA5pwjCwa3FPx48_KXTnyPf2R8VnGULgJ0rxg&s=10",
