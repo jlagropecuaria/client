@@ -598,6 +598,12 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_890358-MLA97217364353_112025-F.webp",
   },
   {
+    nome: "NexGard Spectra 30,1 KG a 60 KG",
+    preco: "R$170,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_622021-MLB92277611406_092025-F-nexgard-spectra-301-a-60kg-antipulgas-carrapatos--1-tablet.webp",
+  },
+  {
     nome: "NexGard 2 a 4 KG (1 Tablete)",
     preco: "R$90,00 Cada",
     imagem:
@@ -860,6 +866,18 @@ const produtosRemedios = [
     preco: "R$20,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_754111-MLA99446002946_112025-F.webp",
+  },
+  {
+    nome: "Canex Composto Vermifugo Oral Antiparasitario Para Cães",
+    preco: "R$20,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_831777-MLA99589693972_122025-F.webp",
+  },
+  {
+    nome: "Canex 4 Comprimidos Vermífugo Cães E Gatos",
+    preco: "R$20,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_724693-MLA111077658211_042026-F.webp",
   },
   {
     nome: "Vermífugo Equino Equivet Gold 6,42g vetbras Pasta Oral Para Cavalos",
@@ -1168,6 +1186,12 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_614626-MLB79376156612_092024-F.webp",
   },
   {
+    nome: "Maxicam 2% Anti-inflamatório Ouro Fino frasco 50mL",
+    preco: "R$140,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_775895-MLA93518575225_092025-F.webp",
+  },
+  {
     nome: "DEXA CALBOS 50mL",
     preco: "R$30,00",
     imagem: "https://calbos.com.br/wp-content/uploads/2023/08/dexa-2-1.png",
@@ -1340,6 +1364,12 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_764215-MLA92283299012_092025-F.webp",
   },
   {
+    nome: "Seringa 10mL com agulha",
+    preco: "R$2,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_764215-MLA92283299012_092025-F.webp",
+  },
+  {
     nome: "Seringa 20mL com agulha",
     preco: "R$5,00",
     imagem:
@@ -1390,6 +1420,18 @@ const produtosRemedios = [
     preco: "R$7,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_827182-MLB113892542598_072026-F.webp",
+  },
+  {
+    nome: "Pulfo 100g",
+    preco: "R$10,00",
+    imagem:
+      "https://i3-imagens-prd.araujo.com.br/redimensionada/600x600/106262/193779_7898185820024_1.webp",
+  },
+  {
+    nome: "Bolfo 200g",
+    preco: "R$25,00",
+    imagem:
+      "https://shoppingdoagro.com.br/wp-content/uploads/2024/06/bolfo-200g.webp",
   },
   {
     nome: "Veneno Talfon Top 1 Kg",
@@ -1628,8 +1670,18 @@ const produtosAcessorios = [
     imagem: "assets/img/Escova%20Dupla%20Cabo%20Madeira.PNG",
   },
   {
+    nome: "Comedouro Alumínio Pesado 200mL",
+    preco: "R$15,00",
+    imagem: "assets/img/Comedouro%20Alum%C3%ADnio%20Pesado.PNG",
+  },
+  {
     nome: "Comedouro Alumínio Pesado 700mL",
-    preco: "R$28,00",
+    preco: "R$25,00",
+    imagem: "assets/img/Comedouro%20Alum%C3%ADnio%20Pesado.PNG",
+  },
+  {
+    nome: "Comedouro Alumínio Pesado 1200mL",
+    preco: "R$30,00",
     imagem: "assets/img/Comedouro%20Alum%C3%ADnio%20Pesado.PNG",
   },
   {
