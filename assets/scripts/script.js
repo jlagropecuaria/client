@@ -2023,7 +2023,7 @@ const produtosAcessorios = [
   },
   {
     nome: "Porta Ovo Leitoso",
-    preco: "R$1,00",
+    preco: "R$2,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_884578-MLB44007305557_112020-F-kit-12-porta-ovo-branco-ornamental--passaros-e-aves.webp",
   },
@@ -2142,6 +2142,12 @@ const produtosAcessorios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_600677-MLB79463404555_092024-F-comedouro-codorna-pintinho-aves-alimentador-automatico-750ml.webp",
   },
   {
+    nome: "Bebedouro Aves Pequeno",
+    preco: "R$15,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_671347-MLB89751307828_082025-F-kit-pet-bebedourocomedouro-automatico-codorna-e-galinha.webp",
+  },
+  {
     nome: "Comedouro Aves 1.5kg Capacidade",
     preco: "R$20,00",
     imagem:
@@ -2178,6 +2184,12 @@ const produtosAcessorios = [
   {
     nome: "Kit Gato 3 Peças: Bandeja, Pá e Comedouro Prático",
     preco: "R$25,00",
+    imagem:
+      "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjmszvjza1aa07",
+  },
+  {
+    nome: "Kit Gato 3 Peças: Bandeja, Pá e Comedouro Prático Menor",
+    preco: "R$20,00",
     imagem:
       "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjmszvjza1aa07",
   },
@@ -2355,8 +2367,14 @@ const produtosAcessorios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_903215-MLB70222660835_062023-F-gaiola-para-calopsitas-periquitos-viveiro-grande-passaros-g.webp",
   },
   {
+    nome: "Viveiro Standard N12 48 x 100 x 34 Grande",
+    preco: "R$249,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_903215-MLB70222660835_062023-F-gaiola-para-calopsitas-periquitos-viveiro-grande-passaros-g.webp",
+  },
+  {
     nome: "Viveiro Standard N11 35 x 89 x 24 Pequeno",
-    preco: "R$149,00",
+    preco: "R$199,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_903215-MLB70222660835_062023-F-gaiola-para-calopsitas-periquitos-viveiro-grande-passaros-g.webp",
   },
