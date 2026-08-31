@@ -1470,6 +1470,12 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_814167-MLB115252756171_072026-F.webp",
   },
   {
+    nome: "Isca Mata Formiga Granulada Grão Forte Insetimax (50 gramas)",
+    preco: "R$2,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_718410-MLA107579274989_022026-F.webp",
+  },
+  {
     nome: "Tecnocell Formicel 10g",
     preco: "R$15,00",
     imagem:
