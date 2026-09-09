@@ -51,6 +51,12 @@ const produtosRacoes = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_864071-MLA111186605366_052026-F.webp",
   },
   {
+    nome: "Special Dog Plus Carne 15KG (Carne) Cão Adulto - Raças Médias e Grandes",
+    preco: "R$120,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_709061-MLA99843215207_112025-F.webp",
+  },
+  {
     nome: "Qualis Premium Superior 15KG (Carne e Arroz) Cão Adulto - Raças Médias e Grandes",
     preco: "R$120,00 / Granel = 10,00 o Quilo",
     imagem:
