@@ -2557,6 +2557,24 @@ const produtosAcessorios = [
       "https://images.tcdn.com.br/img/img_prod/496227/kit_5_iscas_artificiais_cmik_soft_10cm_6gr_11114447_1_111e1dd1908dc89b496d626a8ae4b76b.jpg",
   },
   {
+    nome: "Vara de Pesca Telescópica 3,00m Big Sur Tecfish",
+    preco: "R$79,00",
+    imagem:
+      "https://integracao.bartofil.com.br/site/imagem/123559_a?largura=1500&v=3",
+  },
+  {
+    nome: "Vara de Pesca Telescópica 3,30m Big Sur Tecfish",
+    preco: "R$89,00",
+    imagem:
+      "https://integracao.bartofil.com.br/site/imagem/123559_a?largura=1500&v=3",
+  },
+  {
+    nome: "Vara de Pesca Telescópica 4,00m Big Sur Tecfish",
+    preco: "R$99,00",
+    imagem:
+      "https://integracao.bartofil.com.br/site/imagem/123559_a?largura=1500&v=3",
+  },
+  {
     nome: "Kit Pescaria Completo Tecfish Vara Molinete 1,65m Anzol Chumbada",
     preco: "R$199,00",
     imagem:
