@@ -257,7 +257,7 @@ const produtosRacoes = [
   },
   {
     nome: "Saco Silagem",
-    preco: "R$18,00",
+    preco: "R$15,00",
     imagem:
       "https://cdn.awsli.com.br/800x800/1027/1027618/produto/136138834/saco-de-silagem-colorido-iocksh.jpg",
   },
@@ -1224,6 +1224,12 @@ const produtosRemedios = [
     preco: "R$20,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_844806-MLB90768744793_082025-F-phenodral-tonico-estimulante-ampola-15ml--ucbvet.webp",
+  },
+  {
+    nome: "Ripercol 7,5% 30mL Zoetis",
+    preco: "R$30,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_950211-MLA99599295328_122025-F.webp",
   },
   {
     nome: "Ripercol L Vermífugo Bovino Injetável 100mL Zoetis",
@@ -2444,7 +2450,7 @@ const produtosAcessorios = [
   },
   {
     nome: "Linha-Fio De Nylon 100m 0,20mm - Ekilon",
-    preco: "R$7,00",
+    preco: "R$8,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_891651-MLA99600120782_122025-F.webp",
   },
@@ -2456,7 +2462,13 @@ const produtosAcessorios = [
   },
   {
     nome: "Linha-Fio De Nylon 100m 0,40mm - Ekilon",
-    preco: "R$9,00",
+    preco: "R$10,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_829537-MLB89191050551_082025-F-fio-de-nylon-100m-030mm-pesca-artesanato.webp",
+  },
+  {
+    nome: "Linha-Fio De Nylon 100m 0,50mm - Ekilon",
+    preco: "R$10,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_829537-MLB89191050551_082025-F-fio-de-nylon-100m-030mm-pesca-artesanato.webp",
   },
