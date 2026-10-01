@@ -240,7 +240,12 @@ const produtosRacoes = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0I2HXWclJBr_RsVIH6z0GJC-jpfmqhYMU5rPIzuR5A&s",
   },
   {
-    nome: "Sal Proteinado Bovisal 25KG",
+    nome: "Sal Proteinado Bovisal Seco 25KG",
+    preco: "R$99,00",
+    imagem: "https://qualis.gestor909.com.br/fotos/p_58_20220916_185315_1.jpg",
+  },
+  {
+    nome: "Sal Proteinado Bovisal Águas 25KG",
     preco: "R$99,00",
     imagem: "https://qualis.gestor909.com.br/fotos/p_58_20220916_185315_1.jpg",
   },
@@ -302,6 +307,16 @@ const produtosRacoes = [
     nome: "Ração Pintinho 5KG",
     preco: "R$20,00",
     imagem: "https://qualis.gestor909.com.br/fotos/p_72_20220912_163122_1.jpg",
+  },
+  {
+    nome: "Ração Pintinho Nobre Premium 20KG",
+    preco: "R$90,00",
+    imagem: "assets/img/qualis_nobre.png",
+  },
+  {
+    nome: "Ração Pintinho Nobre Premium 5 KG",
+    preco: "R$25,00",
+    imagem: "assets/img/qualis_nobre.png",
   },
   {
     nome: "Ração Frango 20KG",
