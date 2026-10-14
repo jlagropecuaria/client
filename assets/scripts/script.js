@@ -920,7 +920,7 @@ const produtosRemedios = [
   },
   {
     nome: "Equest Vermífugo Para Equinos 12,2g - Zoetis",
-    preco: "R$69,00",
+    preco: "R$79,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_785152-MLA114547818925_072026-F.webp",
   },
@@ -1021,6 +1021,12 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_972037-MLB92376670495_092025-F-meloxiworld-05mg-antiinflamatorio-dores-febre---world.webp",
   },
   {
+    nome: "Meloxiworld 2,0mg Anti-inflamatório",
+    preco: "R$40,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_958718-MLB84758235873_052025-F-meloxiworld-antiinflamatorio-2mg-10-comprimidos-world.webp",
+  },
+  {
     nome: "Cefaworld 150 Mg Cães E Gatos",
     preco: "R$50,00",
     imagem:
@@ -1115,6 +1121,12 @@ const produtosRemedios = [
     preco: "R$75,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_610598-MLA99450021032_112025-F.webp",
+  },
+  {
+    nome: "Anestésico Inj 50ml - Vansil",
+    preco: "R$40,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_770603-MLB93739745243_092025-F-anestesico-inj-50ml--vansil.webp",
   },
   {
     nome: "Corta Curso 50ml Ourofino",
@@ -1213,6 +1225,12 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_775895-MLA93518575225_092025-F.webp",
   },
   {
+    nome: "Maxicam Ourofino 0,2% 20ml Anti-inflamatório Cães Gatos",
+    preco: "R$99,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_878079-MLA99441237808_112025-F.webp",
+  },
+  {
     nome: "DEXA CALBOS 50mL",
     preco: "R$30,00",
     imagem: "https://calbos.com.br/wp-content/uploads/2023/08/dexa-2-1.png",
@@ -1236,7 +1254,7 @@ const produtosRemedios = [
   },
   {
     nome: "Phenodral Tônico Estimulante Ampola 15ml - Ucbvet",
-    preco: "R$20,00",
+    preco: "R$30,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_844806-MLB90768744793_082025-F-phenodral-tonico-estimulante-ampola-15ml--ucbvet.webp",
   },
@@ -1301,6 +1319,12 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_705766-MLA84975122991_052025-F-otodermin-20ml-bravet-caes-e-gatos-tratamento-otites.webp",
   },
   {
+    nome: "Unguento 50g Plus - Vansil",
+    preco: "R$15,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_862999-MLB90549121130_082025-F-unguento-50g-plus--vansil--envio-imediato.webp",
+  },
+  {
     nome: "Chemitril Oral 10% - 10mL",
     preco: "R$20,00",
     imagem:
@@ -1309,6 +1333,12 @@ const produtosRemedios = [
   {
     nome: "Dexium 10 mL Solução Injetável",
     preco: "R$20,00",
+    imagem:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRw5SY0c7uNs9j0MP7cn2YRA1VxWXi870YC6f4r6iy7w&s=10",
+  },
+  {
+    nome: "Dexium 50 mL Solução Injetável",
+    preco: "R$50,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_943799-MLB103614718082_012026-F-dexium-10-ml-solucao-injetavel.webp",
   },
@@ -1895,6 +1925,18 @@ const produtosAcessorios = [
     preco: "R$45,00",
     imagem:
       "https://www.petlove.com.br/images/products/304341/product/7898968234260__OSSO_SUINO_IMAGEM_FRONTAL.jpg?1771224524",
+  },
+  {
+    nome: "Chumbinhos Pressão Diabolô Snyper 5.5 125 Unidades",
+    preco: "R$20,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_643281-MLB51490250552_092022-F-kit-10-chumbinhos-pressao-diabolo-snyper-55-1250-unid.webp",
+  },
+  {
+    nome: "Chumbinhos Pressão Diabolô Snyper 4.5 250 Unidades",
+    preco: "R$20,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_901658-MLB51491012869_092022-F-kit-5-chumbinhos-pressao-diabolo-snyper-45-1250-unid.webp",
   },
   {
     nome: "Pneu Brinquedo Hard Preto Grande",
