@@ -2855,7 +2855,7 @@ function renderizar(lista) {
           <div class="card-title">${p.nome}</div>
           <div class="card-preco">${p.preco}</div>
           <a class="btn-comprar" href="https://wa.me/${whatsappNumero}?text=${msg}" target="_blank">
-            💬 Comprar via WhatsApp
+            💬 Pedido via WhatsApp
           </a>
         </div>
       `;
