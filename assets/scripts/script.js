@@ -282,6 +282,11 @@ const produtosRacoes = [
     imagem: "https://m.media-amazon.com/images/I/91WXRzn+i3L.jpg",
   },
   {
+    nome: "Ração Peixe Beta 12g",
+    preco: "R$15,00",
+    imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_738127-MLA99897464173_112025-F.webp",
+  },
+  {
     nome: "Ração Peixe Nutriflakes",
     preco: "R$10,00",
     imagem: "https://images.petz.com.br/fotos/1595509131040.jpg",
@@ -489,6 +494,12 @@ const produtosRacoes = [
     preco: "R$12,00",
     imagem:
       "https://www.racoespicapau.com.br/uploads/produtos/produto_6a1627cdab1859.48693363.webp",
+  },
+  {
+    nome: "Passaros Preto E Sabia 500g",
+    preco: "R$12,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_906622-MLB70458958917_072023-F-racao-passaros-preto-e-sabia-triturada-500g-pica-pau.webp",
   },
   {
     nome: "Hamster 500g",
@@ -2347,6 +2358,12 @@ const produtosAcessorios = [
     preco: "R$12,00",
     imagem:
       "https://www.passaromix.com.br/wpmix/wp-content/uploads/2020/04/img-20180306-wa0026-10426-97069_std.jpg",
+  },
+  {
+    nome: "Areia Granulado Higiênico Kets Talco 4kg Alfapet",
+    preco: "R$15,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_778752-MLA100038065415_122025-F.webp",
   },
   {
     nome: "Areia Gatíssimo Sanitária Premium Perfumada 4KG",
