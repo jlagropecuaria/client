@@ -1549,6 +1549,12 @@ const produtosRemedios = [
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_758127-MLA110846702553_042026-F.webp",
   },
+  {
+    nome: "Kit Formicel Blatacel Em Gel 10g Mata Elimina Formiga Barata",
+    preco: "R$20,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_631719-MLB49871128522_052022-F.webp",
+  },
 ];
 
 const produtosAcessorios = [
