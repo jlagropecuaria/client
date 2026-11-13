@@ -1445,6 +1445,18 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_688294-MLA99358468720_112025-F.webp",
   },
   {
+    nome: "Matt Tiririca Imazapir",
+    preco: "R$40,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_994837-MLB109878946051_032026-F.webp",
+  },
+  {
+    nome: "Inseticida Kellthine Casa E Jardim",
+    preco: "R$18,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_663598-MLA99361039468_112025-F.webp",
+  },
+  {
     nome: "Formilix 100% Eficaz Contra Formiga Carrapatos Pulgas Barata",
     preco: "R$40,00",
     imagem:
@@ -1567,6 +1579,12 @@ const produtosRemedios = [
     preco: "R$2,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_814167-MLB115252756171_072026-F.webp",
+  },
+  {
+    nome: "Pacote Mirex Contra Formiga 500g",
+    preco: "R$15,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_640496-MLA120327979739_102026-F-mirex-contra-formiga-5-pacotes-cortadeira-sauvas-quenquens.webp",
   },
   {
     nome: "Isca Mata Formiga Granulada Grão Forte Insetimax (50 gramas)",
@@ -2565,6 +2583,30 @@ const produtosAcessorios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_903215-MLB70222660835_062023-F-gaiola-para-calopsitas-periquitos-viveiro-grande-passaros-g.webp",
   },
   {
+    nome: "Linha Nylon Transparente Dourado 0.20MM-100m Para Pesca Artesanato",
+    preco: "R$8,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_707175-MLB116976055261_082026-F-linha-nylon-transparente-dourado-100m-para-pesca-artesanato.webp",
+  },
+  {
+    nome: "Linha Nylon Transparente Dourado 0.30MM-100m Para Pesca Artesanato",
+    preco: "R$8,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_707175-MLB116976055261_082026-F-linha-nylon-transparente-dourado-100m-para-pesca-artesanato.webp",
+  },
+  {
+    nome: "Linha Nylon Transparente Dourado 0.40MM-100m Para Pesca Artesanato",
+    preco: "R$10,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_707175-MLB116976055261_082026-F-linha-nylon-transparente-dourado-100m-para-pesca-artesanato.webp",
+  },
+  {
+    nome: "Linha Nylon Transparente Dourado 0.50MM-100m Para Pesca Artesanato",
+    preco: "R$10,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_707175-MLB116976055261_082026-F-linha-nylon-transparente-dourado-100m-para-pesca-artesanato.webp",
+  },
+  {
     nome: "Linha-Fio De Nylon 100m 0,20mm - Ekilon",
     preco: "R$8,00",
     imagem:
@@ -2855,13 +2897,7 @@ const produtosAcessorios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_624123-MLA97092981469_112025-F.webp",
   },
   {
-    nome: "Galão de agua 20L",
-    preco: "R$10,00",
-    imagem:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARtNqNsykXhKc3pFbD0RD8a_qFDO8BSrOC22Ov9auFys5s7six15kZAmt&s=10",
-  },
-  {
-    nome: "Galão de agua 20L para Entrega",
+    nome: "Galão de agua 20L para Entrega (Retornável)",
     preco: "R$14,00",
     imagem:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARtNqNsykXhKc3pFbD0RD8a_qFDO8BSrOC22Ov9auFys5s7six15kZAmt&s=10",
