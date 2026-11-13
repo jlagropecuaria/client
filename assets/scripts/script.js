@@ -10,11 +10,6 @@ const produtosRacoes = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_691267-MLA99880308289_112025-F.webp",
   },
   {
-    nome: "Cold Dog 15KG (Carne) Cão Adulto - Raças Médias e Grandes",
-    preco: "R$50,00",
-    imagem: "assets/img/coltdog.png",
-  },
-  {
     nome: "PapaTudo 15KG (Carne) Cão Adulto - Raças Médias e Grandes",
     preco: "R$60,00",
     imagem:
@@ -235,7 +230,7 @@ const produtosRacoes = [
   },
   {
     nome: "Milho 50KG",
-    preco: "R$85,00 / Granel = 2,50 o Quilo",
+    preco: "R$89,00 / Granel = 2,50 o Quilo",
     imagem:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt0I2HXWclJBr_RsVIH6z0GJC-jpfmqhYMU5rPIzuR5A&s",
   },
@@ -535,55 +530,55 @@ const produtosRacoes = [
     nome: "Friskies Frango ao Molho 85g",
     preco: "R$5,00",
     imagem:
-      "https://purina.com.br/sites/default/files/styles/webp/public/2023-07/HERO_FRANGO_05.png.webp?itok=JzkDkqvz",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_770362-MLB81330171023_122024-F.webp",
   },
   {
     nome: "Friskies Carne ao Molho 85g",
     preco: "R$5,00",
     imagem:
-      "https://purina.com.br/sites/default/files/styles/webp/public/2023-07/HERO_ATUM_ATUM02.png.webp?itok=BV3hMRP2",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_710376-MLA88062689380_072025-F.webp",
   },
   {
     nome: "Friskies Filhotes Carne ao Molho 85g",
     preco: "R$5,00",
     imagem:
-      "https://purina.com.br/sites/default/files/styles/webp/public/2023-07/HERO_SALMAO_WET_03.png.webp?itok=tqrCM6GJ",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_813623-MLB114893913734_082026-F.webp",
   },
   {
     nome: "Friskies Salmão ao Molho 85g",
     preco: "R$5,00",
     imagem:
-      "https://purina.com.br/sites/default/files/styles/webp/public/2023-07/HERO_SALMAO_WET.png.webp?itok=gFbG-TnE",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_887433-MLA111908592705_052026-F.webp",
   },
   {
     nome: "Dog Chow Filhotes Carne,Cenoura,Maçã e Leite 85g",
     preco: "R$5,00",
     imagem:
-      "https://purina.com.br/sites/default/files/styles/webp/public/2026-05/112616045_DOGCHOWFILHOTESCARNE-LEITE15x85gBR_Frente.png.webp?itok=InSc3B7A",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_691502-MLA112458736983_052026-F.webp",
   },
   {
     nome: "Dog Chow Todos os Tamanhos Carne 100g",
     preco: "R$5,00",
     imagem:
-      "https://purina.com.br/sites/default/files/styles/webp/public/2024-01/1.jpg.webp?itok=1wcojUbF",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_943024-MLB104881026115_012026-F-2-racao-molhada-purina-dog-chow-cao-adulto-carne-100g-carne.webp",
   },
   {
     nome: "Dog Chow Filhotes Todos os Tamanhos Carne 100g",
     preco: "R$5,00",
     imagem:
-      "https://purina.com.br/sites/default/files/styles/webp/public/2024-01/1_5.jpg.webp?itok=XRXyr5on",
+      "https://purina.com.br/sites/default/files/styles/products_gallery_desktop/public/2026-10/dog-chow-extralife-racao-umida-para-cao-filhote-todos-os-tamanhos-sabor-carne-frente_0.png.avif?itok=_VBwE0rC",
   },
   {
     nome: "Dog Chow Adultos Minis e Pequenos Frango 100g",
     preco: "R$5,00",
     imagem:
-      "https://purina.com.br/sites/default/files/styles/webp/public/2024-01/1_3.jpg.webp?itok=4Z7qVs6u",
+      "https://purina.com.br/sites/default/files/styles/products_gallery_desktop/public/2026-10/dog-chow-extralife-racao-umida-para-cao-adulto-minis-e-pequenos-sabor-frango-frente_0.png.avif?itok=m0GfA1aZ",
   },
   {
     nome: "Dog Chow Adultos Minis e Pequenos Carne 100g",
     preco: "R$5,00",
     imagem:
-      "https://purina.com.br/sites/default/files/styles/webp/public/2024-01/1_2.jpg.webp?itok=6li5Zd_9",
+      "https://purina.com.br/sites/default/files/styles/products_gallery_desktop/public/2026-10/dog-chow-extralife-racao-umida-para-cao-adulto-minis-e-pequenos-sabor-frango-frente_0.png.avif?itok=m0GfA1aZ",
   },
   {
     nome: "Qualis Bifinho Carne 60g",
@@ -625,13 +620,31 @@ const produtosRacoes = [
 const produtosRemedios = [
   {
     nome: "NexGard Spectra 2 a 3,5kg (1 Tablete)",
-    preco: "R$90,00 Cada",
+    preco: "R$100,00 Cada",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_890358-MLA97217364353_112025-F.webp",
   },
   {
-    nome: "NexGard Spectra 30,1 KG a 60 KG",
-    preco: "R$170,00",
+    nome: "NexGard Spectra 3,6 a 7,5kg (1 Tablete)",
+    preco: "R$120,00 Cada",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_926302-MLB112639281395_062026-F-nexgard-spectra-p-caes-36-a-75kg-antipulgas-caixa-1-unid.webp",
+  },
+  {
+    nome: "NexGard Spectra 7,6 a 15kg (1 Tablete)",
+    preco: "R$130,00 Cada",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_884796-MLB103003616943_122025-F-nexgard-spectra-antipulga-e-carrapatos-caes-de-76-a15kg.webp",
+  },
+  {
+    nome: "NexGard Spectra 15,1 a 30kg (1 Tablete)",
+    preco: "R$140,00 Cada",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_620464-MLA99983833965_112025-F.webp",
+  },
+  {
+    nome: "NexGard Spectra 30,1 KG a 60 KG (1 Tablete)",
+    preco: "R$160,00 Cada",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_622021-MLB92277611406_092025-F-nexgard-spectra-301-a-60kg-antipulgas-carrapatos--1-tablet.webp",
   },
@@ -714,6 +727,12 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_812343-MLB113670820805_062026-F.webp",
   },
   {
+    nome: "Biocanis Suplemento Probiótico Ourofino Cães Gatos 14g",
+    preco: "R$50,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_633098-MLA82430707533_022025-F.webp",
+  },
+  {
     nome: "Gentamasti L Vacas Lactantes 10 G",
     preco: "R$15,00",
     imagem:
@@ -766,6 +785,18 @@ const produtosRemedios = [
     preco: "R$30,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_720557-MLA108852757116_032026-F.webp",
+  },
+  {
+    nome: "Elo-xicam Anti-inflamatório 0,5mg",
+    preco: "R$30,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_726882-MLA99360169014_112025-F.webp",
+  },
+  {
+    nome: "Elo-xicam Anti-inflamatório 0,5mg",
+    preco: "R$40,00",
+    imagem:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_889035-MLA99827174765_112025-F.webp",
   },
   {
     nome: "Colírio Ucbvet 15 Ml Para Cães E Gatos",
@@ -907,7 +938,7 @@ const produtosRemedios = [
   },
   {
     nome: "Canex 4 Comprimidos Vermífugo Cães E Gatos",
-    preco: "R$20,00",
+    preco: "R$15,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_724693-MLA111077658211_042026-F.webp",
   },
@@ -1179,7 +1210,7 @@ const produtosRemedios = [
     nome: "Cortvet 10mL -UCB | Inflamações, reumatismo, luxações e tendinites",
     preco: "R$20,00",
     imagem:
-      "https://io.convertiez.com.br/m/lojaagropecuaria/shop/products/images/958/medium/cortvet-10-ml_182043.jpg",
+      "https://ucbvet.com/wp-content/uploads/2024/11/cortvet-anti-inflamatorio-veterinario-10-ml.png",
   },
   {
     nome: "Verrudel 20ml",
@@ -1372,13 +1403,13 @@ const produtosRemedios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_695054-MLB84415502594_052025-F-qual-o-melhor-remedio-para-tosse-de-caes-tussedan-100ml.webp",
   },
   {
-    nome: "Matacura Antisséptico 90g",
+    nome: "Matacura Antisséptico 90g (Sabonete)",
     preco: "R$15,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_852058-MLB112994305787_062026-F-kit-sabonetes-matacura-antipulgas-80g--mais-antisseptico-90g.webp",
   },
   {
-    nome: "Matacura Sarnicida e Antipulgas 80g",
+    nome: "Matacura Sarnicida e Antipulgas 80g (Sabonete)",
     preco: "R$15,00",
     imagem:
       "https://http2.mlstatic.com/D_NQ_NP_2X_971253-MLB90293960166_082025-F.webp",
@@ -2316,12 +2347,17 @@ const produtosAcessorios = [
   },
   {
     nome: "Ferraduras West Vários Tamanhos",
-    preco: "R$45,00",
+    preco: "R$50,00",
     imagem: "https://http2.mlstatic.com/D_718137-MLB91309635026_092025-C.jpg",
   },
   {
+    nome: "Ferraduras JK Vários Tamanhos",
+    preco: "R$60,00",
+    imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_925769-MLB74697439475_022024-F-ferradura-jk-plus-ng-n2-jogo-com-guarda-casco.webp",
+  },
+  {
     nome: "Cravos Unidades",
-    preco: "R$0,50",
+    preco: "R$0,75",
     imagem:
       "https://cdn.awsli.com.br/300x300/123/123918/produto/3830767/84726e8e98.jpg",
   },
@@ -2819,14 +2855,14 @@ const produtosAcessorios = [
       "https://http2.mlstatic.com/D_NQ_NP_2X_624123-MLA97092981469_112025-F.webp",
   },
   {
-    nome: "Galão de água 20L",
+    nome: "Galão de agua 20L",
     preco: "R$10,00",
     imagem:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARtNqNsykXhKc3pFbD0RD8a_qFDO8BSrOC22Ov9auFys5s7six15kZAmt&s=10",
   },
   {
-    nome: "Galão de água 20L para Entrega",
-    preco: "R$12,00",
+    nome: "Galão de agua 20L para Entrega",
+    preco: "R$14,00",
     imagem:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARtNqNsykXhKc3pFbD0RD8a_qFDO8BSrOC22Ov9auFys5s7six15kZAmt&s=10",
   },
